@@ -1,0 +1,12 @@
+names:
+- 'pistol'
+nc: 1
+roboflow:
+  license: MIT
+  project: delictradar
+  url: https://universe.roboflow.com/project/delictradar/dataset/2
+  version: 2
+  workspace: project
+test: ../DelictRadar-7/test/images
+train: ../DelictRadar-7/train/images
+val: ../DelictRadar-7/valid/images
